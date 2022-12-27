@@ -88,12 +88,8 @@ If roll number is valid and that roll number is existnig in database
   
   # Demo
 
-   https://user-images.githubusercontent.com/72729279/209664586-d692a88a-a905-40e5-9141-fefabd83964e.mp4
+   https://user-images.githubusercontent.com/72729279/209665359-354d0c69-16d8-43d6-a4f0-d55f6ccb0b01.mp4
 
-
-  
- 
-  
   --------------------
 ## Hope You Like the Project ❤️❤️❤️
 ## Peace to everyone 🙏🏻
