@@ -3,7 +3,6 @@
 This is a web based html form for student enrollment using JsonPowerDB as Database 
 JsonPowerDB is used to perform CURD operation 
 
-Website Link:- https://prashant-smart.github.io/Student-Enrollment-Form/public_html/index.html
 
 # Benefits of using JsonPowerDB
 * Simple to use , real time database
@@ -48,16 +47,16 @@ If roll number is valid
 * **Adding new student data**
   Enter new roll number and then all other feilds are enable and then after filling student information we can save this data into database
   
-  If imput data is not valid
-  
-  If input data is valid 
+    If imput data is not valid
+
+    If input data is valid 
   
   # Installation
   
   Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
   ##### Clone the project 
   ```
-  git clone [https://github.com/prashant-smart/Recommendation-system.git](https://github.com/prashant-smart/Student-Enrollment-Form.git)
+  git clone https://github.com/prashant-smart/Recommendation-system.git
   ```
   After cloning 
   
