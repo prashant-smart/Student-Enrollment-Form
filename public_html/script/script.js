@@ -238,6 +238,7 @@ function getStudentData() {
             fillData(resJsonObj);
             $('#resetBtn').prop('disabled', false);
             $('#updateBtn').prop('disabled', false);
+            $('#saveBtn').prop('disabled', true);
             $('#name').focus();
         }
     }
@@ -287,6 +288,12 @@ function changeData() {
     //Make UPDATE Request
     var resJsonObj = executeCommandAtGivenBaseUrl(updateRequest, jpdbBaseURL, jpbdIML);
     jQuery.ajaxSetup({async: true});
+    
+    if (resJsonObj.status === 400) {// If data is not saved
+        alertHandler(0, 'Data Is Not Update ( Message: ' + resJsonObj.message + " )");
+    } else if (resJsonObj.status === 200) {// If data is successfully saved
+        alertHandler(1, 'Data Update successfully');
+    }
     
     //After updating to databse resent from data
     resetForm();
