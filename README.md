@@ -65,7 +65,7 @@ If roll number is valid and that roll number is existnig in database
   
  * **If input data is not valid**
  
-   <img src="./images/invalid_details_1.png.png">
+   <img src="./images/invalid_details_1.png">
   
    <img src="./images/invalid_details_2.png">
 
@@ -88,7 +88,7 @@ If roll number is valid and that roll number is existnig in database
   
   # Demo
   
-  <video src='video/Student Enrollment From - Google Chrome 2022-12-27 16-19-40.mp4' width=180/>
+  <video src='video/demo.mp4' width=180/>
   
   --------------------
 ## Hope You Like the Project ❤️❤️❤️
