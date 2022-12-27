@@ -45,11 +45,11 @@ If roll number is valid
   Inoder to update student details input roll number and then we can update the student data
 
 * **Adding new student data**
-  Enter new roll number and then all other feilds are enable and then after filling student information we can save this data into database
+  Enter new roll number and then all other feilds are enable and then after filling student information we can save this data into database only if input is valid
   
-    If imput data is not valid
+    If input data is not valid
 
-    If input data is valid 
+    
   
   # Installation
   
